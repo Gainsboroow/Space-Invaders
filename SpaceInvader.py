@@ -8,7 +8,7 @@ How to play :
 Arrows to move
 Space to shoot
 
-If the game is too slow, you can change de factor variable below,
+If the game is too slow, you can change the factor variable below,
 1/2 will make the game 2 times faster, 1/3 3 times faster, etc.
 
 Enjoy !
