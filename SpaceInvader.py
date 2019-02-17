@@ -2,7 +2,7 @@
 Space Invader
 Made by Gainsboroow
 Github : https://github.com/Gainsboroow/
-Github Repository : https://github.com/Gainsboroow
+Github Repository : https://github.com/Gainsboroow/Space-Invaders
 
 How to play :
 Arrows to move
